@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ccx 
+spooles.out
+
+# idea
+.idea/
+.vscode/
+
 # C extensions
 *.so
 
