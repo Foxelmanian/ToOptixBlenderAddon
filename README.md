@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/DMST1990/ToOptixBlenderAddon/blob/master/Images/Blender_UI.PNG" width="100%">
+  <img src="https://github.com/DMST1990/ToOptixBlenderAddon/blob/master/Images/Blender_UI.PNG" width="50%">
 </p>
 
 
@@ -17,7 +17,7 @@ ToOptix core Functions
 [ToOptix Core](https://github.com/DMST1990/ToOptixCore/)
 
 ## Installation
-- Install python 3.xx
+- Install Blender 2.8x
 - Download ToOptix
 
 ### General information
@@ -28,10 +28,8 @@ ToOptix core Functions
 - Test at first the two example files TwoRectanglesStruc.inp and TwoRectanglesTherm.inp
 
 
-
-
 ### Blender Installation
-- Only supported for Blender 2.80
+- Only supported for Blender 2.8xx
 - Copy the folder ToOptix_BlenderAddon
 - Copy your ToOptix Folder and paste it into ...\Blender Foundation\Blender\2.80\scripts\addons
 - Start Blender and activate the addon (type = mesh)
